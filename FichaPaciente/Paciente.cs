@@ -32,7 +32,7 @@ namespace FichaPaciente
                    + this.Diagnostico;
         }
     }
-
+   
     
 
     
