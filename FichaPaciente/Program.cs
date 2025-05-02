@@ -24,9 +24,9 @@ namespace FichaPaciente
             else
             {
                 Console.WriteLine("Aguarde....");
-
-
             }
+
+
             Console.Clear();
             Console.WriteLine();
             Console.Write("Nome do Paciente: ");
